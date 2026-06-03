@@ -131,16 +131,9 @@ runcmd:
     cat << 'MOTD' > /etc/update-motd.d/00-aryn
     #!/bin/bash
     echo ""
-    echo " █████╗ ██████╗ ██╗   ██╗███╗   ██╗"
-    echo "██╔══██╗██╔══██╗╚██╗ ██╔╝████╗  ██║"
-    echo "███████║██████╔╝ ╚████╔╝ ██╔██╗ ██║"
-    echo "██╔══██║██╔══██╗  ╚██╔╝  ██║╚██╗██║"
-    echo "██║  ██║██║  ██║   ██║   ██║ ╚████║"
-    echo "╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝"
-    echo ""
-    echo " 🚀 Welcome to Aryn Cloud Datacenter"
-    echo " 🌐 Website : https://aryncloud.in"
-    echo " 📧 Support : support@aryncloud.in"
+    echo " 🚀 Welcome to RekaiHost Datacenter"
+    echo " 🌐 Website : https://rekaixp.indevs.in"
+    echo " 📧 Support : rekaixp@gmaill.com"
     echo " 🖥 VPS Private IP : \$(hostname -I | awk '{print \$1}')"
     echo ""
     MOTD
