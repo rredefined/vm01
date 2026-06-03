@@ -2,5 +2,5 @@
 ### Run This Installation For Creating VMS.
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/rrdefined/aerox-clone/refs/heads/main/vm.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/rrdefined/vm01/refs/heads/main/vm.sh)
 ```
