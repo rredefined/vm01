@@ -56,7 +56,7 @@ systemctl enable aryn-$VM_NAME
 while true; do
   clear
   echo "==============================================="
-  echo "        ARYN CLOUD VM MANAGER – VPS CONTROL    "
+  echo "        REKAI VM MANAGER – VPS CONTROL    "
   echo "==============================================="
   echo
   echo "1) Create VPS"
